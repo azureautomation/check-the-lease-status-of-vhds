@@ -1,0 +1,20 @@
+{
+    "Author": "Manjunath Rao G",
+    "ContentSize": 2171,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/check-the-lease-status-of-vhds/master/Check-VHDLeaseStatus.ps1",
+    "DownloadCount": 653,
+    "Id": "Check-the-Lease-status-of-1acfb24e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 342,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-3-6T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script traverses through the VHDs of all the storage accounts in your subscription and obtains the lease status of them. You can then use the information to delete the unused VHDs. The file is saved as: c:\\AzureUnusedVHDs\\VHDlist.txt. You can run it as Azure Automation runbo",
+    "Title": "Check the Lease status of VHDs",
+    "UpdatedDate": "2017-3-6T00:00:00",
+    "Url": "https://github.com/azureautomation/check-the-lease-status-of-vhds",
+    "UserTags": "Microsoft Azure, Powershell Script, Windows Azure Virtual Machines"
+}
